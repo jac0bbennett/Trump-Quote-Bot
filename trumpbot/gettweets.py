@@ -1,5 +1,7 @@
 
     
+# This is an adapted version of https://gist.github.com/yanofsky/5436496
+
 import urllib, json
 import sys
 import tweepy
