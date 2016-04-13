@@ -1,6 +1,6 @@
 #!/usr/bin/python
 import re, nltk, random, tweepy, time
-from nltkpos import wordpos
+from words import wordpos
 
 consumer_key = ""
 consumer_secret = ""
